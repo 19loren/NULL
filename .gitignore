@@ -1,20 +1,3 @@
-supervisionado/graficos/comparativo_f1_macro.png
-supervisionado/graficos/curva_Dummy.png
-supervisionado/graficos/curva_Arvore_de_Decisao.png
-supervisionado/graficos/curva_Random_Forest.png
-supervisionado/graficos/curva_Regressao_Logistica.png
-supervisionado/graficos/curva_SVM_Linear.png
-supervisionado/graficos/matriz_Arvore_de_Decisao.png
-supervisionado/graficos/curva_XGBoost.png
-supervisionado/graficos/matriz_Dummy.png
-supervisionado/graficos/matriz_Random_Forest.png
-supervisionado/graficos/matriz_Regressao_Logistica.png
-supervisionado/graficos/matriz_SVM_Linear.png
-supervisionado/graficos/matriz_teste_final__Random_Forest.png
-supervisionado/graficos/matriz_XGBoost.png
-supervisionado/graficos/metricas_SVM_Linear.png
-supervisionado/graficos/metricas_Arvore_de_Decisao.png
-supervisionado/graficos/metricas_Dummy.png
-supervisionado/graficos/metricas_Random_Forest.png
-supervisionado/graficos/metricas_Regressao_Logistica.png
-supervisionado/graficos/metricas_XGBoost.png
+# ignora arquivos gerados do projeto, mas mantém os dados TF-IDF do treinamento
+data/raw/*.xlsx
+resultados/**/*.png
